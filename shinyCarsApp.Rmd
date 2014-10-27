@@ -19,7 +19,7 @@ With shinyCars, it is easy to show:
 
 1. Plain data
 2. Some summary statistics
-3. Show plots
+3. Show plots!
 
 Please allow us to introduce shinyCarsApp!
 
